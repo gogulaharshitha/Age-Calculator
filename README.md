@@ -59,6 +59,6 @@ If you'd like to contribute to this project, feel free to submit a pull request.
 ## Contact
 For any questions or feedback, feel free to reach out at:
 
-GitHub: GitHub: https://github.com/gogulaharshitha/Age-Calculator
+GitHub: https://github.com/gogulaharshitha/Age-Calculator
 
 Email: gogulaharshitha14@gmail.com
