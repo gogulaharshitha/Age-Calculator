@@ -9,7 +9,6 @@ A simple Age Calculator implemented using JavaScript, HTML, and CSS.
 - [Installation](#installation)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Demo](#demo)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
