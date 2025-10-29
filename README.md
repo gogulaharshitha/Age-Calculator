@@ -26,6 +26,7 @@ A simple Age-Calculator implemented using HTML, CSS and Javascripit.
 + JavaScript (ES6) – Core logic for age calculation
 ## Installation
 To get a local copy up and running, follow these steps:
+
 **1.Clone the repository:**
 
 git clone https://github.com/your-username/age-calculator.git
